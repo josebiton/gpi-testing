@@ -1,0 +1,7 @@
+services:
+   appphp:
+    image: gpi-testing
+    container_name: gpi-testing_v1
+    #restart: always
+    ports:
+      - 80:80
