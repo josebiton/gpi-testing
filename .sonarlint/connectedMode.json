@@ -1,0 +1,4 @@
+{
+    "sonarQubeUri": "http://ec2-54-209-133-34.compute-1.amazonaws.com:9000",
+    "projectKey": "gpi"
+}
